@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView.Adapter<MyAdapter.ViewHolder> mAdapter;
     RecyclerView.LayoutManager mLayoutManager;
     private Context context;
-    String data[] = {"AAA", "BBBB", "CC", "DDDDD", "EE"};
+    String data[] = {"AAA", "BBBB", "CC", "DDDDD", "EE", "ddd", "dddd11111"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
